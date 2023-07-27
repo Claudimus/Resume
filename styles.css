@@ -1,5 +1,9 @@
 body {
-    background-color: rgb(255, 219, 164);
+     background-color: rgba(255, 254, 252, 0.947);
+    font-display: swap;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Menlo", "Meslo LG", monospace;
   
     }
   
